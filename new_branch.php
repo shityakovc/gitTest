@@ -2,5 +2,5 @@
 namespace Project\Main;
 
 class branch {
-    private static $one_branch;
+    private static $not_a_master;
 }
